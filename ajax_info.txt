@@ -1,0 +1,1 @@
+<strong>Ajax się powiódł</strong>
